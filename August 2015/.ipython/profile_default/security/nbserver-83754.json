@@ -1,9 +1,0 @@
-{
-  "secure": false, 
-  "url": "http://localhost:8888/", 
-  "hostname": "localhost", 
-  "pid": 83754, 
-  "base_url": "/", 
-  "notebook_dir": "/Users/emlyn/Documents/PyData London Emlyn/Meetups/PyData_London_News_2015-08-04", 
-  "port": 8888
-}
