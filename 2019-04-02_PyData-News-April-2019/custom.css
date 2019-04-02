@@ -1,0 +1,24 @@
+div.input_prompt {
+    display: none;
+}
+
+div.input {
+    display: none;
+}
+
+div.output_prompt {
+    display: none;
+}
+
+div.output_subarea {
+    max-width: 100%;
+}
+
+.reveal img, .reveal video, .reveal iframe {
+    max-width: 100%;
+}
+
+.slides {
+    width: 1200px !important;
+}
+
