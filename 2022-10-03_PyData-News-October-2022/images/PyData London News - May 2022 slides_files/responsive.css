@@ -1,0 +1,1543 @@
+/*For Responsive css start*/
+
+@media (max-width: 1200px) {
+    .edn_pro_static_leftright_wrapper .ednpro_left_section {
+        text-align: center;
+    }
+    .edn_pro_static_leftright_wrapper .edn_pro_static_template_wrapper {
+        padding-right: 10px;
+    }
+    .edn-social-icons-bg {
+        line-height: 1.8;
+    }
+    .endpro_main_leftright_wrapper .ednpro_right_section.ednpro_opt_settings_template_wrapper {
+        padding: 3px 10px;
+    }
+    .edn_pro-social-title {
+        max-width: 100%;
+        text-align: center;
+    }
+    .endpro_main_leftright_wrapper.slider_leftright_wrapper .ednpro_bar_icons {
+        text-align: center;
+    }
+    .endpro_main_leftright_wrapper .ednpro_bar_icons {
+        text-align: center;
+    }
+    /*opt-in form css*/
+    
+    .edn-form-field input.edn-mailchimp-email,
+    .edn-subscribe-form .edn-form-field .edn_subs_email_r,
+    .edn-constant-contact-wrap .edn-form-field .edn-constantcontact-email,
+    .edn-constant-contact-wrap .edn-form-field .edn-constantcontact-firstname {
+        width: 200px;
+    }
+    .edn-constant-contact-wrap .edn-form-field {
+        margin-left: 10px;
+    }
+    .edn_pro-social-title,
+    .edn-front-title,
+    .edn-temp1-social-heading-title {
+        margin-right: 0px;
+        margin-bottom: 10px;
+    }
+    .edn-position-top .edn-subscribe-form .edn-error,
+    .edn-position-top_absolute .edn-subscribe-form .edn-error,
+    .edn-position-top .edn-subscribe-form .edn-success,
+    .edn-position-top_absolute .edn-subscribe-form .edn-success {
+        left: 0%;
+    }
+    .endpro_main_leftright_wrapper .edn-constant-contact-wrap .edn-front-title {
+        display: inline-block;
+        width: 30%;
+    }
+    .apexnb-logo-social-right-section .endpro_main_leftright_wrapper .edn-constant-contact-wrap .edn-front-title {
+        width: 70%;
+    }
+    .edn-position-left .endpro_main_leftright_wrapper .edn-constant-contact-wrap .edn-front-title,
+    .edn-position-right .endpro_main_leftright_wrapper .edn-constant-contact-wrap .edn-front-title {
+        width: 100%;
+    }
+    .endpro_main_leftright_wrapper .edn-constant-contact-wrap .edn-front-title h3 {
+        max-width: 100%;
+        width: 100%;
+    }
+    .endpro_main_leftright_wrapper.ednpro_opt_settings_leftright_wrapper .ednpro_bar_icons {
+        width: auto;
+    }
+    /*opt-in form css end*/
+    
+    .endpro_main_leftright_wrapper .ednpro_right_section {
+        margin-left: 10px;
+    }
+    .endpro_main_leftright_wrapper.ednpro_opt_settings_leftright_wrapper .ednpro_left_section {
+        margin-right: 0px;
+    }
+    .ednpro_opt_settings_leftright_wrapper .ednpro_right_section.ednpro_opt_settings_template_wrapper {
+        width: 68%;
+        text-align: center;
+    }
+    .edn-position-left .ednpro_opt_settings_leftright_wrapper .ednpro_right_section.ednpro_opt_settings_template_wrapper,
+    .edn-position-right .ednpro_opt_settings_leftright_wrapper .ednpro_right_section.ednpro_opt_settings_template_wrapper {
+        width: 100%;
+    }
+    .endpro_main_leftright_wrapper .ednpro_left_section {
+        margin-right: 10px;
+    }
+    .edn-position-bottom .edn-mailchimp-wrap,
+    .edn-position-top .edn-mailchimp-wrap {
+        padding-bottom: 10px;
+    }
+    .edn-custom-template .ednpro_static_leftright_wrapper .ednpro_right_section {
+        width: 55%;
+    }
+    .endpro_main_leftright_wrapper.ticker_leftright_wrapper .ednpro_right_section .ticker-content {
+        max-width: 61%;
+    }
+    .ticker .edn-mulitple-text-content {
+        max-width: 80%;
+    }
+    .right .ticker .edn-mulitple-text-content {
+        text-align: right;
+    }
+    .edn_pro_static_leftright_wrapper .ednpro_right_section,
+    .ednpro_static_leftright_wrapper .ednpro_right_section {
+        width: 58%;
+    }
+    .endpro_main_leftright_wrapper .edn-text-link {
+        max-width: 90%;
+    }
+    .edn-subscribe-form .edn-form-field {
+        margin-right: 10px;
+    }
+    .ednpro_user-can-close {
+        right: 5px;
+    }
+    .edn-custom-template .endpro_main_leftright_wrapper .ednpro_left_section {
+        text-align: center;
+    }
+    .apexnb-logo-social-right-section .endpro_main_leftright_wrapper .ednpro_right_section {
+        width: 60%;
+    }
+    .apexnb-logo-social-right-section .endpro_main_leftright_wrapper .ednpro_left_section {
+        width: 35%;
+    }
+    .apexnb-search-layout3 .apex-search-right-section.apexnb_show_both_sbtn label {
+        width: 100%;
+        margin-bottom: 10px;
+    }
+    .apexnb-search-layout3 .apex-search-right-section.apexnb_show_both_sbtn button {
+        float: none;
+        margin: 0 auto;
+    }
+    .apexnb-search-layout4.apexnb-searchwrapper .apex-onscreen-description {
+        margin-bottom: 12px;
+    }
+    .apexnb-searchwrapper .apex-onscreen-description {
+        max-width: 100%;
+    }
+}
+@media (max-width: 1024px) {
+    /*opt-in form css*/
+    .edn-subscribe-form .edn-front-title{
+      padding-left: 0px !important;
+    }
+    .edn-subscribe-form .edn-front-title h3, .edn-mailchimp-wrap .edn-front-title h3 {
+        width: 85% !important;
+    }
+    .edn-constant-error,
+    .edn-constant-success {
+        bottom: -5px;
+    }
+    .edn-constant-contact-wrap .edn-form-field {
+        margin-left: 0;
+    }
+    .ednpro_opt_settings_leftright_wrapper .ednpro_left_section {
+        max-width: auto;
+    }
+    .edn_pro-social-title,
+    .edn-front-title,
+    .edn-temp1-social-heading-title {
+        margin-right: 0;
+    }
+    .edn-constant-contact-wrap .edn-front-title {
+        display: block;
+        margin-bottom: 10px;
+    }
+    .edn-subscribe-form .edn-front-title {
+        max-width: 100%;
+        margin-bottom: 5px;
+    }
+    .edn-subscribe-form .edn-front-title h3 {
+        max-width: 250px;
+    }
+    /*opt-in form css end*/
+    
+    .edn-notify-bar .bx-wrapper {
+        padding: 6px 104px;
+    }
+    .edn-position-left .right .ticker .edn-tweet-content,
+    .edn-position-left .right .ticker .ticker-content,
+    .edn-position-left .right .ticker .edn-mulitple-text-content,
+    .edn-position-right .right .ticker .edn-tweet-content,
+    .edn-position-right .right .ticker .ticker-content,
+    .edn-position-right .right .ticker .edn-mulitple-text-content {
+        float: left;
+    }
+    .endpro_main_leftright_wrapper.scroller_leftright_wrapper .ticker .edn-mulitple-text-content,
+    .edn-position-left .endpro_main_leftright_wrapper.scroller_leftright_wrapper .ednpro_right_section,
+    .edn-position-left .endpro_main_leftright_wrapper.scroller_leftright_wrapper .ticker .edn-mulitple-text-content  {
+
+        width: 100%;
+    }
+    .edn-position-left .endpro_main_leftright_wrapper.scroller_leftright_wrapper .right .ticker-content,
+    .edn-position-right .endpro_main_leftright_wrapper.scroller_leftright_wrapper .right .ticker-content {
+        right: 30px ! important;
+    }
+    .endpro_main_leftright_wrapper .ticker-wrapper .ticker-content {
+        width: 85%;
+        overflow: hidden;
+        text-overflow:ellipsis;
+    }
+    .edn-notify-bar .scroller_leftright_wrapper .ticker-wrapper p.ticker-content {
+        width: 74%;
+    }
+    .edn-notify-bar.edn-position-left .scroller_leftright_wrapper .ticker-wrapper p.ticker-content,
+    .edn-notify-bar.edn-position-right .scroller_leftright_wrapper .ticker-wrapper p.ticker-content {
+        width: 60%;
+    }
+    .edn-constant-contact-wrap .edn-front-title h3:before {
+        left: -31px;
+    }
+    .endpro_main_leftright_wrapper .ednpro_opt_settings_template_wrapper .edn-constant-contact-wrap .edn-front-title h3 {
+        margin-left: 36px;
+        max-width: 60%;
+    }
+    .endpro_main_leftright_wrapper .ednpro_opt_settings_template_wrapper .edn-constant-contact-wrap .edn-front-title {
+        width: auto;
+    }
+    .apexnb-logo-social-right-section .endpro_main_leftright_wrapper .ednpro_opt_settings_template_wrapper .edn-constant-contact-wrap .edn-front-title {
+        width: 100%;
+    }
+    .edn-custom-template .ednpro_static_leftright_wrapper .ednpro_right_section {
+        padding: 0 20px;
+        margin-left: 0;
+    }
+    .edn-custom-template.edn-notify-bar .ednpro_static_leftright_wrapper .ednpro_bar_icons,
+    .edn-custom-template.edn-notify-bar .slider_leftright_wrapper .ednpro_bar_icons,
+    .edn-custom-template.edn-notify-bar .ticker_leftright_wrapper .ednpro_bar_icons,
+    .edn-custom-template.edn-notify-bar .scroller_leftright_wrapper .ednpro_bar_icons {
+        width: 100%;
+        margin: 0 auto;
+        text-align: center;
+    }
+    .edn-position-top .slider_template_wrapper .edn_static_text,
+    .edn-position-top .slider_template_wrapper .edn-post-title-wrap .edn-post-title li,
+    .edn-position-bottom .slider_template_wrapper .edn_static_text,
+    .edn-position-bottom .slider_template_wrapper .edn-tweet-content,
+    .edn-position-bottom .slider_template_wrapper .edn-post-title-wrap .edn-post-title li,
+    .edn-position-top_absolute .slider_template_wrapper .edn_static_text,
+    .edn-position-top_absolute .slider_template_wrapper .edn-post-title-wrap .edn-post-title li {
+        width: 80%;
+    }
+    .edn-custom-template .slider_leftright_wrapper .ednpro_right_section {
+        width: 100%;
+        margin-left: 0;
+    }
+    .slider_leftright_wrapper .bx-wrapper .edn-mulitple-text-content {
+        max-width: 92%;
+    }
+    .edn_pro_static_leftright_wrapper .ednpro_right_section,
+    .edn-custom-template .ednpro_static_leftright_wrapper .ednpro_right_section {
+        width: 48%;
+    }
+    .edn_pro_static_leftright_wrapper .edn-text-link {
+        max-width: 90%;
+    }
+    .edn-custom-template .ednpro_static_leftright_wrapper .ednpro_right_section .edn-text-link {
+        max-width: 59%;
+    }
+    .ednpro_opt_settings_leftright_wrapper,
+    .ednpro_opt_settings_template_wrapper {
+        padding: 3px 7px;
+    }
+    .edn-position-top_absolute .edn-custom-template .endpro_main_leftright_wrapper .edn-constant-contact-wrap .edn-front-title,
+    .edn-position-bottom .edn-custom-template .endpro_main_leftright_wrapper .edn-constant-contact-wrap .edn-front-title,
+    .edn-position-top .edn-custom-template .endpro_main_leftright_wrapper .edn-constant-contact-wrap .edn-front-title {
+        width: auto;
+    }
+    .edn-position-top .edn_csubscribe_form,
+    .edn-position-top_absolute .edn_csubscribe_form,
+    .edn-position-bottom .edn_csubscribe_form {
+        padding: 10px;
+    }
+    .edn-notify-bar.edn-position-top.open .edn-container,
+    .edn-notify-bar.edn-position-top_absolute.open .edn-container {
+        top: -300px;
+    }
+    .edn-position-left .ednpro_opt_settings_leftright_wrapper .ednpro_opt_settings_template_wrapper .edn-front-title .show_icon, 
+    .edn-position-right .ednpro_opt_settings_leftright_wrapper .ednpro_opt_settings_template_wrapper .edn-front-title .show_icon,
+    .edn-position-left .ednpro_opt_settings_template_wrapper .edn-front-title .show_icon, 
+    .edn-position-right .ednpro_opt_settings_template_wrapper .edn-front-title .show_icon,
+    .apexnb-logo-right-section.edn-position-left .ednpro_opt_settings_template_wrapper .edn-front-title .show_icon, 
+    .apexnb-logo-right-section.edn-position-right .ednpro_opt_settings_template_wrapper .edn-front-title .show_icon {
+        left: 0;
+    }
+    .edn-position-left .ednpro_opt_settings_leftright_wrapper .ednpro_right_section.ednpro_opt_settings_template_wrapper,
+    .edn-position-right .ednpro_opt_settings_leftright_wrapper .ednpro_right_section.ednpro_opt_settings_template_wrapper {
+        width: 100%;
+    }
+    .edn-template-15 .edn-subscribe-form .edn-form-field .edn-front-title {
+        margin-bottom: 10px;
+    }
+    .edn-notify-bar.apexnb-logo-social-right-section .slider_leftright_wrapper .bx-wrapper {
+        padding-right:65px;
+    }
+    .edn-notify-bar.apexnb-logo-social-right-section .bx-wrapper .bx-next {
+        right: 0;
+    }
+    .edn-notify-bar.apexnb-logo-social-right-section .endpro_main_leftright_wrapper .bx-wrapper .bx-controls-direction a.bx-prev {
+        right: 30px;
+    }
+    .apexnb-logo-social-right-section .apexnb-logo-wrapper {
+        width: 30%;
+    }
+    .apexnb-logo-social-right-section .endpro_main_leftright_wrapper {
+        width: 69.5%;
+    }
+    .apexnb-logo-social-right-section .apexnb-bartypeticker .edn-temp-design-wrapper {
+        padding-top:8px;
+        padding-bottom: 8px;
+    }
+    .apexnb-logo-social-right-section .endpro_main_leftright_wrapper .ednpro_left_section,
+    .apexnb-logo-social-right-section .endpro_main_leftright_wrapper .ednpro_right_section,
+    .apexnb-logo-social-right-section .endpro_main_leftright_wrapper.ticker_leftright_wrapper .ednpro_left_section, 
+    .apexnb-logo-social-right-section .endpro_main_leftright_wrapper.scroller_leftright_wrapper .ednpro_left_section,
+    .edn-pre-template.apexnb-logo-social-right-section .endpro_main_leftright_wrapper.slider_leftright_wrapper .ednpro_left_section,
+    .apexnb-logo-social-right-section .endpro_main_leftright_wrapper .ednpro_right_section.slider_template_wrapper, 
+    .apexnb-logo-social-right-section .endpro_main_leftright_wrapper .ednpro_right_section.ticker_template_wrapper, 
+    .apexnb-logo-social-right-section .endpro_main_leftright_wrapper .ednpro_right_section.scroller_template_wrapper  {
+        width: 100%;
+        margin-left: 0;
+        margin-right: 0;
+    }
+    .apexnb-logo-social-right-section .endpro_main_leftright_wrapper .edn-form-field .constant_subscribe {
+        margin-top: 6px;
+    }
+}
+@media (max-width: 900px) {
+    .apexnb-searchwrapper .apex-onscreen-description {
+        max-width: 100%;
+    }
+}
+@media (max-width: 900px) {
+    .edn_middle_content {
+        padding:10px 30px;
+    }
+    .edn-template-15 .edn_middle_content {
+        padding: 15px 30px;
+    }
+    .endpro_main_leftright_wrapper.ednpro_timer_settings_leftright_wrapper .ednpro_left_section  {
+        width: 100%;
+        margin-right: 0;
+    }
+    .endpro_main_leftright_wrapper.ednpro_timer_settings_leftright_wrapper .ednpro_right_section {
+        width: 100%;
+        margin-left: 0;
+        margin-top:10px;
+    }
+    .ednpro_timer_settings_leftright_wrapper {
+        padding: 6px 32px;
+    }
+    .apexnb-logo-social-right-section .apexnb-video-popup-section .apexnb-video-section {
+        max-width: 89%;
+    }
+}
+@media (max-width: 840px) {
+    .admin-bar .edn-notify-bar {
+        top: 46px;
+    }
+    .edn_pro_static_template_wrapper .edn-text-link {
+        margin-bottom: 5px;
+    }
+    .edn-template-15 .edn_middle_content {
+        padding: 10px 30px 18px;
+    }
+    .edn-template-15 .edn_pro_static_template_wrapper .edn-text-link {
+        margin-bottom: 12px;
+    }
+    .endpro_main_leftright_wrapper .ednpro_opt_settings_template_wrapper .edn-constant-contact-wrap .edn-front-title h3 {
+        max-width: 90%;
+        margin-bottom: 0;
+    }
+    .edn-position-left .edn-constant-contact-wrap .edn-front-title,
+    .edn-position-right .edn-constant-contact-wrap .edn-front-title {
+        margin-bottom: 0;
+    }
+
+}
+@media (max-width: 768px) {
+    .endpro_main_leftright_wrapper.scroller_leftright_wrapper .ednpro_right_section,
+    .endpro_main_leftright_wrapper.ticker_leftright_wrapper .ednpro_right_section {
+        width: 100%;
+        margin-left: 0;
+    }
+    .endpro_main_leftright_wrapper.ticker_leftright_wrapper {
+        padding:6px 0;
+    }
+    .ticker_leftright_wrapper .ticker .edn-mulitple-text-content {
+        width: 70%;
+    }
+    .edn_pro_static_leftright_wrapper .ednpro_right_section {
+        width: 100%;
+        margin-left: 0;
+    }
+    .edn_static_text {
+        padding: 0 40px;
+        text-align: center;
+    }
+    .edn_pro_static_leftright_wrapper .ednpro_left_section {
+        text-align: center;
+        margin-right: 0;
+    }
+    .endpro_main_leftright_wrapper .ednpro_bar_icons {
+        text-align: center;
+        width: 100%;
+        padding: 0 5px;
+        margin-bottom: 10px;
+        
+    }
+    .edn_pro_static_leftright_wrapper .edn_pro-social-title {
+        width: 100%;
+    }
+    .edn_pro_static_leftright_wrapper .edn-text-link {
+        width: auto;
+    }
+    .edn-custom-template .ednpro_static_leftright_wrapper .ednpro_right_section .edn-text-link,
+    .edn-custom-template .ednpro_static_leftright_wrapper .ednpro_right_section {
+        width: 100%;
+        max-width: 100%;
+    }
+    .endpro_main_leftright_wrapper .edn-text-link {
+        text-align: center;
+    }
+    .endpro_main_leftright_wrapper .ednpro_left_section {
+        width: 100%;
+        margin-right: 0;
+        display: block;
+        max-width: 100%;
+        text-align:  center;
+    }
+    .apexnb-logo-social-right-section .endpro_main_leftright_wrapper .ednpro_left_section {
+        margin-bottom: -10px;
+    }
+    .ticker .edn-mulitple-text-content {
+        max-width: 60%;
+        text-overflow: ellipsis;
+        white-space: nowrap;
+        overflow: hidden;
+    }
+    .edn-mailchimp-wrap .edn-front-title,
+    .edn-subscribe-form .edn-front-title {
+        display:inline-block;
+        padding-left: 31px;
+        margin-right:0;
+        margin-bottom: 15px;
+    }
+    .edn-subscribe-form .edn-front-title h3,
+    .edn-mailchimp-wrap .edn-front-title h3 {
+        width: auto;
+        text-align: center;
+    }
+    .edn-subscribe-form .edn-front-title h3 span, 
+    .edn-mailchimp-wrap .edn-front-title h3 span {
+        text-align: center;
+    }
+    .edn-position-left .edn-subscribe-form .edn-front-title h3, 
+    .edn-position-left .edn-mailchimp-wrap .edn-front-title h3, 
+    .edn-position-right .edn-subscribe-form .edn-front-title h3, 
+    .edn-position-right .edn-mailchimp-wrap .edn-front-title h3 {
+        max-width: 100%;
+    }
+    .edn-front-title .show_icon {
+        margin-right: 0;
+    }
+    .edn-custom-template .edn-form-field input.edn-mailchimp-email,
+    .edn-custom-template .edn-subscribe-form .edn-form-field .edn_subs_email_r,
+    .edn-custom-template .edn-constant-contact-wrap .edn-form-field .edn-constantcontact-email,
+    .edn-custom-template .edn-constant-contact-wrap .edn-form-field .edn-constantcontact-firstname {
+        width: 180px;
+    }
+    .edn-custom-template.edn-position-top .edn_pro_static_pattern .edn_static_text,
+    .edn-custom-template.edn-position-bottom .edn_pro_static_pattern .edn_static_text,
+    .edn-custom-template.edn-position-top_absolute .edn_pro_static_pattern .edn_static_text {
+        padding: 6px 0;
+        text-align: center;
+    }
+    .edn-custom-template.edn-position-top .endpro_main_leftright_wrapper .edn-constant-contact-wrap .edn-front-title,
+    .edn-custom-template.edn-position-top_absolute .endpro_main_leftright_wrapper .edn-constant-contact-wrap .edn-front-title,
+    .edn-custom-template.edn-position-bottom .endpro_main_leftright_wrapper .edn-constant-contact-wrap .edn-front-title {
+        width: auto;
+    }
+    .edn-default-form-popup .edn-row .edn-form-field .edn-field {
+        width: 100%;
+    }
+    .edn-default-form-popup .edn-form-field label,
+    .edn-default-form-popup .edn-form-field .edn-field {
+        width: 100%;
+    }
+    .edn-default-form-popup input,
+    .edn-default-form-popup textarea {
+        width: 100%;
+    }
+    .edn-default-form-popup .edn-form-field {
+        width: 100%;
+    }
+    .edn-post-title-wrap .edn-post-title li a, 
+    .edn-custom-contact-link, 
+    .edn-temp1-static-button {
+        line-height: 1;
+        height: auto;
+        padding:5px 10px;
+    }
+    .endpro_main_leftright_wrapper,
+    .endpro_main_leftright_wrapper.slider_leftright_wrapper{
+        text-align: center;
+        padding: 6px 25px;
+    }
+    .endpro_main_leftright_wrapper.scroller_leftright_wrapper {
+        padding: 6px 0;
+    }
+    .endpro_main_leftright_wrapper .ednpro_opt_settings_template_wrapper .edn-constant-contact-wrap .edn-front-title h3 {
+        max-width: 100%;
+    }
+    .ednpro_opt_settings_leftright_wrapper .ednpro_right_section.ednpro_opt_settings_template_wrapper,
+    .apexnb-logo-social-right-section .endpro_main_leftright_wrapper .ednpro_right_section.ednpro_opt_settings_template_wrapper {
+        width: 100%;
+        margin-left: 0;
+    }
+    /*counter-responsive*/
+    .edn_countdown_timer_main_wrapper .countdown-wrap .counter_desc {
+        width: 22%;
+    }
+    .ednpro_right_section .edn_countdown_timer_main_wrapper .countdown-wrap {
+        justify-content: center;
+    }
+    .edn-position-left .edn_countdown_timer_main_wrapper .countdown-wrap .counter_desc,
+    .edn-position-right .edn_countdown_timer_main_wrapper .countdown-wrap .counter_desc {
+        width: 100%;
+    }
+    .endpro_main_leftright_wrapper.ednpro_videopopup_settings_leftright_wrapper .ednpro_left_section,
+    .endpro_main_leftright_wrapper.ednpro_videopopup_settings_leftright_wrapper .ednpro_right_section {
+        width:100%;
+        margin-left: 0;
+        display:block;
+    }
+    .endpro_main_leftright_wrapper .ednpro_right_section.ednpro_searchform_settings_template_wrapper {
+        display: block;
+        width: 100%;
+        margin-left: 0;
+    }
+    .endpro_main_leftright_wrapper .ednpro_right_section.ednpro_searchform_settings_template_wrapper .apexnb-search-layout4 {
+        padding:15px 10px 10px;
+    }
+    .edn-template-left .apexnb-search-layout5.apexnb-searchwrapper .apex-search-right-section,
+    .edn-template-right .apexnb-search-layout5.apexnb-searchwrapper .apex-search-right-section {
+        max-width: 100%;
+    }
+    .edn-subscribe-form .edn-form-field {
+        margin-right: 0;
+    }
+    .edn_countdown_timer_main_wrapper .countdown-wrap .counter_desc {
+        display: block;
+        max-width: 100%;
+        width:100%;
+        margin-right:0;
+    }
+    .apexnb-logo-right-section .edn_middle_content.ednpro_timer_settings_template_wrapper {
+        padding: 7px 30px 7px 0;
+    }
+    .apexnb-logo-right-section .edn_middle_content.ednpro_timer_settings_template_wrapper,
+    .apexnb-logo-right-section .edn_middle_content.ednpro_timer_settings_template_wrapper {
+        padding-right:10px;
+        padding-left:10px;
+    }
+    .apexnb-logo-right-section .edn_countdown_timer_main_wrapper .countdown-wrap {
+        display: block;
+    }
+    .edn_countdown_timer_main_wrapper .countdown-wrap.apexnb_layout1 .ApexDateCountdown {
+        margin:0 auto;
+        display: block;
+    }
+    .apexnb-logo-social-right-section .apexnb-logo-wrapper,
+    .apexnb-logo-social-right-section .endpro_main_leftright_wrapper  {
+        width: 100%;
+        margin-right: 0;
+        margin-left: 0;
+    }
+    .apexnb-logo-social-right-section .apexnb-logo-wrapper {
+        margin-bottom: 5px;
+    }
+    .edn-temp1-static-button,
+    .edn-temp2-static-button,
+    .edn-temp3-static-button,
+    .edn-temp4-static-button,
+    .edn-temp5-static-button,
+    .edn-temp6-static-button,
+    .edn-temp7-static-button,
+    .edn-temp8-static-button,
+    .edn-temp9-static-button,
+    .edn-temp10-static-button,
+    .edn-temp11-static-button,
+    .edn-temp12-static-button,
+    .edn-temp13-static-button,
+    .edn-temp14-static-button,
+    .edn-temp15-static-button,
+    .edn-temp1-call-action-button,
+    .edn-temp2-call-action-button,
+    .edn-temp3-call-action-button,
+    .edn-temp4-call-action-button,
+    .edn-temp5-call-action-button,
+    .edn-temp6-call-action-button,
+    .edn-temp7-call-action-button,
+    .edn-temp8-call-action-button,
+    .edn-temp9-call-action-button,
+    .edn-temp10-call-action-button,
+    .edn-temp11-call-action-button,
+    .edn-temp12-call-action-button,
+    .edn-temp13-call-action-button,
+    .edn-temp14-call-action-button,
+    .edn-temp15-call-action-button {
+        margin-left: 0;
+    }
+    .edn-notify-bar.apexnb-logo-social-right-section .slider_leftright_wrapper .bx-wrapper {
+        padding:6px 30px;
+    }
+    .edn-notify-bar.apexnb-logo-social-right-section .endpro_main_leftright_wrapper .bx-wrapper .bx-controls-direction a.bx-prev {
+        right: auto;
+        left: 0;
+    }
+    .apexnb-logo-social-right-section .endpro_main_leftright_wrapper.ednpro_opt_settings_leftright_wrapper .ednpro_left_section {
+        width: 100%;
+        max-width: 100%;
+    }
+    .apexnb-logo-social-right-section .endpro_main_leftright_wrapper .ednpro_opt_settings_template_wrapper .edn-constant-contact-wrap .edn-front-title {
+        width: auto;
+    }
+    .apexnb-logo-social-right-section .endpro_main_leftright_wrapper .edn-form-field .constant_subscribe {
+        margin-top: 0;
+    }
+    /*.edn-temp3-social-wrap {
+        margin-bottom: 10px
+    }*/
+    .edn-subscribe-form .edn-form-field .edn-front-title {
+        width: 271px;
+        margin-bottom: 10px;
+    }
+    .edn-mailchimp-wrap .show_icon {
+        width: 100%;
+    }
+}
+@media (max-width: 700px) {
+    .edn-position-left .edn-subscribe-form .edn-front-title h3,
+    .edn-position-left .edn-subscribe-form .edn-front-title h3 span,
+    .edn-position-right .edn-subscribe-form .edn-front-title h3,
+    .edn-position-right .edn-subscribe-form .edn-front-title h3 span,
+    .edn-position-top .edn-subscribe-form .edn-front-title h3,
+    .edn-position-top .edn-subscribe-form .edn-front-title h3 span
+    .edn-position-bottom .edn-subscribe-form .edn-front-title h3,
+    .edn-position-bottom .edn-subscribe-form .edn-front-title h3 span,
+    .edn-position-top_absolute .edn-subscribe-form .edn-front-title h3,
+    .edn-position-top_absolute .edn-subscribe-form .edn-front-title h3 span {
+        text-align: center;
+    }
+}
+@media (max-width: 640px) {
+    /*opt-in form css*/
+    
+    .edn-position-left .edn-form-field input.edn-mailchimp-email,
+    .edn-position-right .edn-form-field input.edn-mailchimp-email {
+        width: 100%;
+    }
+    .edn-constant-contact-wrap .edn-form-field .edn-constantcontact-email,
+    .edn-constant-contact-wrap .edn-form-field .edn-constantcontact-firstname,
+    .endpro_main_leftright_wrapper .edn-constant-contact-wrap .edn-form-field .edn-constantcontact-email {
+        width: 100%;
+        margin-bottom: 5px;
+    }
+    .edn-form-field input.edn-mailchimp-email,
+    .edn-subscribe-form .edn-form-field .edn_subs_email_r,
+    .edn-constant-contact-wrap .edn-form-field .edn-constantcontact-email,
+    .edn-constant-contact-wrap .edn-form-field .edn-constantcontact-firstname {
+        margin-bottom: 5px;
+    }
+    .edn-form-field input.edn-mailchimp-email,
+    .apexnb-logo-right-section .edn-form-field input.edn-mailchimp-email, 
+    .apexnb-logo-right-section .edn-subscribe-form .edn-form-field .edn_subs_email_r, 
+    .apexnb-logo-right-section .edn-constant-contact-wrap .edn-form-field .edn-constantcontact-email {
+        width: 100%;
+    }
+    .endpro_main_leftright_wrapper .ednpro_left_section {
+        margin-right: 0;
+        text-align: center;
+    }
+    .endpro_main_leftright_wrapper .ednpro_right_section {
+        margin-left: 0;
+        text-align: center;
+    }
+    .edn-form-field .constant_subscribe {
+        width: 100%;
+        max-width: 100%;
+    }
+    .edn-constant-contact-wrap,
+    .edn-subscribe-form .edn-form-field {
+        padding: 8px 30px;
+    }
+    .edn-constant-contact-wrap .edn-front-title h3 {
+        margin-left: 30px;
+    }
+    .edn-front-title {
+        display: block;
+        font-size: 12px;
+        margin-right: 0;
+    }
+    .edn-pre-template .edn-error,
+    .edn-success {
+        display: block;
+    }
+    .edn-contact-lightbox .edn-contact-lightbox-inner-wrap {
+        padding: 11px;
+    }
+    .edn_close_button_show .right .ticker-title {
+        margin-right: 10px;
+    }
+    .edn-template-15 .edn-constant-contact-wrap .edn-left-subscribe-content button:before {
+        display: none;
+    }
+    .edn-template-15 .edn-constant-contact-wrap .edn-left-subscribe-content:after {
+        height:113px;
+    }
+    .edn-template-15 .edn-constant-contact-wrap .edn-form-field .edn-constantcontact-email, 
+    .edn-template-15 .edn-form-field .constant_subscribe {
+        border-radius: 5px;
+    }
+    .edn-template-15 .edn-subscribe-form .edn-front-title {
+        margin-bottom: 10px;
+    }
+
+    /*opt-in form css end*/
+    
+    .endpro_main_leftright_wrapper.slider_leftright_wrapper .ednpro_right_section {
+        width: 100%;
+    }
+    .edn-pre-template .endpro_main_leftright_wrapper.slider_leftright_wrapper .ednpro_left_section,
+    .ednpro_opt_settings_leftright_wrapper .ednpro_right_section.ednpro_opt_settings_template_wrapper {
+        width: 100%;
+    }
+    .ednpro_opt_settings_leftright_wrapper .ednpro_left_section {
+        max-width: 100%;
+    }
+    .endpro_main_leftright_wrapper.slider_leftright_wrapper .ednpro_right_section {
+        width: 80%;
+    }
+    .edn-notify-bar .endpro_main_leftright_wrapper .bx-wrapper .bx-controls-direction a.bx-prev {
+        right: auto;
+        left: 5px;
+    }
+    .edn-notify-bar .endpro_main_leftright_wrapper .bx-wrapper .bx-next {
+        right: 5px;
+    }
+    .edn-custom-template.edn-notify-bar .edn-form-field .constant_subscribe {
+        width: 100%;
+        max-width: 100%;
+    }
+    .edn-position-top .edn-subscribe-form .edn-error,
+    .edn-position-top_absolute .edn-subscribe-form .edn-error,
+    .edn-position-bottom .edn-subscribe-form .edn-error,
+    .edn-position-top .edn-subscribe-form .edn-success,
+    .edn-position-top_absolute .edn-subscribe-form .edn-success,
+    .edn-position-bottom .edn-subscribe-form .edn-success    {
+        left: 0;
+        bottom: -3px;
+        padding-left: 0;
+    }
+    .endpro_main_leftright_wrapper .edn-form-field input.edn-mailchimp-email {
+        width: 100%;
+    }
+    .edn-form-field .edn_mailchimp_submit_ajax,
+    .edn-form-field .constant_subscribe,
+    .edn-subscribe-form .edn-form-field .edn_subs_submit_ajax,
+    .edn-post-title-wrap .edn-post-title li a,
+    .edn-custom-contact-link,
+    .edn-temp1-static-button {
+        margin-left: 0;
+    }
+    .edn-constant-contact-wrap .edn-front-title h3:before {
+        left: -40px;
+    }
+    .endpro_main_leftright_wrapper .ticker-wrapper .ticker-content {
+        width: 81%;
+    }
+    .edn-notify-bar .scroller_leftright_wrapper .ticker-wrapper p.ticker-content {
+        width: 60%;
+    }
+    .endpro_main_leftright_wrapper.scroller_leftright_wrapper .ticker .edn-mulitple-text-content {
+        max-width: 50%;
+    }
+    .endpro_main_leftright_wrapper .edn-constant-contact-wrap,
+    .endpro_main_leftright_wrapper .edn-subscribe-form .endpro_main_leftright_wrapper .edn-form-field {
+        padding: 0;
+        margin: auto;
+    }
+    .endpro_main_leftright_wrapper .edn-constant-contact-wrap .edn-front-title span {
+        width: 100%;
+    }
+    .edn-position-top .edn-form-field .edn-error,
+    .edn-position-top_absolute .edn-form-field .edn-error,
+    .edn-position-top .edn-form-field .edn-success,
+    .edn-position-top_absolute .edn-form-field .edn-success,
+    .edn-position-bottom .edn-form-field .edn-error,
+    .edn-position-bottom .edn-form-field .edn-success {
+        bottom: -12px;
+        font-size: 9px;
+    }
+    .edn-constant-error,
+    .edn-constant-success {
+        bottom: -6px;
+        font-size: 10px;
+    }
+    .edn-subscribe-form .edn-form-field .edn_subs_email_r {
+        vertical-align: top;
+    }
+    .edn-position-top .endpro_main_leftright_wrapper .edn-subscribe-form .edn-error,
+    .edn-position-top_absolute .endpro_main_leftright_wrapper .edn-subscribe-form .edn-error,
+    .edn-position-top .endpro_main_leftright_wrapper .edn-subscribe-form .edn-success,
+    .edn-position-top_absolute .endpro_main_leftright_wrapper .edn-subscribe-form .edn-success,
+    .edn-position-bottom .endpro_main_leftright_wrapper .edn-subscribe-form .edn-error,
+    .edn-position-bottom .endpro_main_leftright_wrapper .edn-subscribe-form .edn-success {
+        padding-left: 11px;
+        bottom: -10px;
+    }
+    .endpro_main_leftright_wrapper .edn-text-link {
+        text-align: center;
+    }
+    .edn_pro-social-title {
+        width: 100%;
+    }
+    .edn-notify-bar .slider_leftright_wrapper .bx-wrapper {
+        padding: 0 40px 20px 40px;
+    }
+    .edn-position-top .slider_template_wrapper .edn-tweet-content,
+    .edn-position-top_absolute .slider_template_wrapper .edn-tweet-content,
+    .edn-position-bottom .slider_template_wrapper .edn-tweet-content {
+        width: auto;
+        max-width: 100%;
+    }
+    .endpro_main_leftright_wrapper.slider_leftright_wrapper .ednpro_right_section {
+        width: 100%;
+    }
+/*    .endpro_main_leftright_wrapper .ednpro_opt_settings_template_wrapper .edn-constant-contact-wrap .edn-front-title h3 {
+        max-width: 100%;
+    }*/
+    .edn-subscribe-form .edn-form-field .edn-front-title {
+        margin-right: 0;
+    }
+    .edn-subscribe-form .edn-front-title {
+        margin-bottom: 5px;
+    }
+    .edn-position-left .edn-subscribe-form .edn-front-title h3,
+    .edn-position-left .edn-mailchimp-wrap .edn-front-title h3,
+    .edn-position-right .edn-subscribe-form .edn-front-title h3,
+    .edn-position-right .edn-mailchimp-wrap .edn-front-title h3 {
+        max-width: 100%;
+    }
+    .endpro_main_leftright_wrapper .edn-form-field input.edn-mailchimp-email,
+    .endpro_main_leftright_wrapper .edn-constant-contact-wrap .edn-form-field .edn-constantcontact-email {
+        width: 100%;
+    }
+    .edn-position-left .edn-constant-contact-wrap,
+    .edn-position-left .edn-subscribe-form .edn-form-field,
+    .edn-position-right .edn-constant-contact-wrap,
+    .edn-position-right .edn-subscribe-form .edn-form-field {
+        padding: 0;
+    }
+    .edn-form-field .edn_mailchimp_submit_ajax {
+        vertical-align: top;
+    }
+    .edn-position-top .edn-form-field .edn_mailchimp_submit_ajax,
+    .edn-position-bottom .edn-form-field .edn_mailchimp_submit_ajax,
+    .edn-position-top_absolute .edn-form-field .edn_mailchimp_submit_ajax,
+    .edn-position-left .edn-form-field .edn_mailchimp_submit_ajax,
+    .edn-position-right .edn-form-field .edn_mailchimp_submit_ajax {
+        width: 100%;
+    }
+    .edn-position-left .edn-template-15 .edn-form-field .edn_mailchimp_submit_ajax,
+    .edn-position-right .edn-template-15 .edn-form-field .edn_mailchimp_submit_ajax {
+        width:auto;
+    }
+    .edn-custom-template .edn-form-field input.edn-mailchimp-email,
+    .edn-custom-template .edn-subscribe-form .edn-form-field .edn_subs_email_r,
+    .edn-custom-template .edn-constant-contact-wrap .edn-form-field .edn-constantcontact-email,
+    .edn-custom-template .edn-constant-contact-wrap .edn-form-field .edn-constantcontact-firstname {
+        width: 100%;
+    }
+    .endpro_main_leftright_wrapper.ednpro_opt_settings_leftright_wrapper {
+        padding: 3px 15px;
+    }
+    .ednpro-open-panel .ednpro-open-panel {
+        padding: 20px;
+    }
+    .ednpro-columns-2 > div,
+    .ednpro-columns-3 > div {
+        float: none;
+        padding: 0;
+        width: 100%;
+    }
+    .ednpro-columns-2 > div {
+        margin-bottom: 30px;
+    }
+    .ednpro-columns-3,
+    .ednpro-columns-2 {
+        margin-right: 0;
+        margin-left: 0;
+    }
+    /*video-popup-responsive*/
+    .apexnb-video-popup-section .apexnb-vicon {
+        float: none;
+        width: 100%;
+        margin-left: 0;
+    }
+    .apexnb-video-popup-section .apexnb-video-section {
+        display: block;
+        float:none;
+        max-width: 100%;
+    }
+    .apexnb-video-popup-section .apexnb-video-rt-wrapper,
+    .apexnb-logo-social-right-section .apexnb-video-popup-section .apexnb-video-rt-wrapper {
+        max-width: 100%;
+        margin-bottom: 8px;
+    }
+    .apexnb-video-popup-section .apexnb-video-view-btn {
+        margin-left: 0;
+        display: block;
+    }
+    .edn-social-icons {
+        margin-bottom: 5px;
+    }
+    .edn-notify-bar.edn-position-left .slider_leftright_wrapper .bx-wrapper, 
+    .edn-notify-bar.edn-position-right .slider_leftright_wrapper .bx-wrapper {
+        padding:6px 40px;
+    }
+    .edn-position-left .slider_leftright_wrapper.endpro_main_leftright_wrapper,
+    .edn-position-right .slider_leftright_wrapper.endpro_main_leftright_wrapper  {
+        padding:10px 0;
+    }
+    .edn-notify-bar.edn-position-left .slider_leftright_wrapper .bx-wrapper .edn-mulitple-text-content,
+    .edn-notify-bar.edn-position-right .slider_leftright_wrapper .bx-wrapper .edn-mulitple-text-content {
+        max-width: 95%;
+        line-height: 1.3;
+    }
+    .apexnb-logo-right-section .apexnb-logo-wrapper, 
+    .apexnb-logo-social-section .apexnb-logo-wrapper,
+    .apexnb-logo-right-section .edn_middle_content, 
+    .apexnb-logo-social-section .edn_middle_content {
+        width:100%;
+        text-align:center;
+    }
+    .apexnb-logo-right-section .apexnb-logo-wrapper, 
+    .apexnb-logo-social-section .apexnb-logo-wrapper {
+        margin-bottom:8px;
+        padding-right: 0;
+    }
+    .edn-template-15 .apexnb-logo-right-section .edn_middle_content, 
+    .edn-template-15 .apexnb-logo-social-section .edn_middle_content {
+        padding-bottom:10px;
+    }
+    .edn-position-left .edn-template-15 .edn-constant-contact-wrap .edn-form-field .edn-constantcontact-email, 
+    .edn-position-right .edn-template-15 .edn-constant-contact-wrap .edn-form-field .edn-constantcontact-email, 
+    .edn-position-left .edn-template-15 .edn-form-field .constant_subscribe, 
+    .edn-position-right .edn-template-15 .edn-form-field .constant_subscribe {
+        margin-top:0;
+    }
+    .apexnb-searchwrapper .apex-onscreen-description {
+        max-width: 100%;
+    }
+    .apexnb-search-layout5.apexnb-searchwrapper .apex-onscreen-description {
+        margin-right: 10px;
+    }
+    .apexnb-search-layout5.apexnb-searchwrapper .apex-search-right-section {
+        width: 350px;
+    }
+}
+@media (max-width: 480px) {
+    /*opt-in form css*/
+    
+    .edn-position-top .slider_template_wrapper .edn-tweet-content {
+        max-width: 100%;
+        width: 100%;
+    }
+    .edn_pro-social-title {
+        display: block;
+        margin-right: 0;
+    }
+    .edn-constant-contact-wrap .edn-front-title h3:before {
+        left: -32px;
+    }
+    .edn-form-field input.edn-mailchimp-email {
+        width: 100%;
+        margin-bottom: 5px;
+    }
+    .endpro_main_leftright_wrapper .edn-form-field input.edn-mailchimp-email,
+    .endpro_main_leftright_wrapper .edn-subscribe-form .edn-form-field .edn_subs_email_r {
+        width: 100%;
+    }
+    .edn-form-field .edn_mailchimp_submit_ajax {
+        width: 100%;
+        max-width: 100%;
+    }
+    .edn-position-bottom .edn-form-field .edn-error,
+    .edn-position-bottom .edn-form-field .edn-success,
+    .edn-position-top .edn-form-field .edn-error,
+    .edn-position-top .edn-form-field .edn-success {
+        display: block;
+    }
+    .edn-mailchimp-wrap {
+        padding: 8px 22px;
+    }
+    .edn-subscribe-form .edn-form-field .edn_subs_email_r {
+        width: 100%;
+        margin-bottom: 10px;
+    }
+    .edn-subscribe-form .edn-form-field .edn_subs_submit_ajax {
+        width: 100%;
+        max-width: 100%;
+    }
+    .edn-position-left .ednpro_opt_settings_template_wrapper .edn-front-title .show_icon,
+    .edn-position-right .ednpro_opt_settings_template_wrapper .edn-front-title .show_icon {
+        left: 10px;
+    }
+    .edn-template-15 .edn-left-subscribe-content button:before {
+        display: none;
+    }
+    .edn-template-15 .edn-left-subscribe-content:after {
+        height:77px;
+    }
+    .edn-template-15 .edn-constant-contact-wrap .edn-form-field .edn-constantcontact-email, 
+    .edn-template-15 .edn-subscribe-form .edn-form-field .edn_subs_email_r, 
+    .edn-template-15 .edn-form-field input.edn-mailchimp-email,
+    .edn-template-15 .edn-form-field .constant_subscribe, 
+    .edn-template-15 .edn-subscribe-form .edn-form-field .edn_subs_submit_ajax, 
+    .edn-template-15 .edn-form-field .edn_mailchimp_submit_ajax {
+        border-radius: 5px;
+    }
+    /*opt-in form css end*/
+    
+    .edn-notify-bar .bx-wrapper {
+        padding: 6px 54px;
+        text-align: center;
+    }
+    .ticker .edn-tweet-content,
+    .ticker .ticker-content,
+    .ticker .edn-mulitple-text-content {
+        width: 47%;
+    }
+    .ticker .ticker-content .edn-tweet-content {
+        width: auto;
+    }
+    .edn-contact-lightbox .edn-contact-lightbox-inner-wrap {
+        max-width: 315px;
+    }
+    .endpro_main_leftright_wrapper .ednpro_bar_icons {
+        text-align: center;
+    }
+    .endpro_main_leftright_wrapper .ticker-wrapper .ticker-content {
+        max-width: 65%;
+    }
+    .edn-custom-template.edn-notify-bar .edn-form-field .edn_mailchimp_submit_ajax,
+    .edn-custom-template.edn-notify-bar .edn-subscribe-form .edn-form-field .edn_subs_submit_ajax {
+        width: 100%;
+        max-width: 100%;
+    }
+    .edn-position-left,
+    .edn-position-right {
+        width: 300px;
+    }
+    .edn-form-field .edn_mailchimp_submit_ajax,
+    .edn-form-field .constant_subscribe,
+    .edn-subscribe-form .edn-form-field .edn_subs_submit_ajax,
+    .edn-post-title-wrap .edn-post-title li a,
+    .edn-custom-contact-link,
+    .edn-temp1-static-button {
+        margin-left: 0;
+    }
+    .edn-position-top .edn-subscribe-form .edn-error,
+    .edn-position-top_absolute .edn-subscribe-form .edn-error,
+    .edn-position-top .edn-subscribe-form .edn-success,
+    .edn-position-top_absolute .edn-subscribe-form .edn-success,
+    .edn-position-bottom .edn-subscribe-form .edn-error,
+    .edn-position-bottom .edn-subscribe-form .edn-success {
+        bottom: -12px;
+    }
+    .edn-position-top .slider_template_wrapper .edn_static_text,
+    .edn-position-top .slider_template_wrapper .edn-tweet-content,
+    .edn-position-top .slider_template_wrapper .edn-post-title-wrap .edn-post-title li,
+    .edn-position-bottom .slider_template_wrapper .edn_static_text,
+    .edn-position-bottom .slider_template_wrapper .edn-tweet-content,
+    .edn-position-bottom .slider_template_wrapper .edn-post-title-wrap .edn-post-title li,
+    .edn-position-top_absolute .slider_template_wrapper .edn_static_text,
+    .edn-position-top_absolute .slider_template_wrapper .edn-tweet-content,
+    .edn-position-top_absolute .slider_template_wrapper .edn-post-title-wrap .edn-post-title li {
+        width: 95%;
+        margin: auto;
+    }
+    .edn-notify-bar .contactform-7-popup input,
+    .edn-notify-bar .contactform-7-popup textarea,
+    .edn-position-left .edn-template-15 .endpro_main_leftright_wrapper .edn-form-field input.edn-mailchimp-email, 
+    .edn-position-right .edn-template-15 .endpro_main_leftright_wrapper .edn-form-field input.edn-mailchimp-email, 
+    .edn-position-right .edn-template-15 .endpro_main_leftright_wrapper .edn-subscribe-form .edn-form-field .edn_subs_email_r, 
+    .edn-position-left .edn-template-15 .endpro_main_leftright_wrapper .edn-subscribe-form .edn-form-field .edn_subs_email_r {
+        width: 100%;
+    }
+    .edn-notify-bar .bx-wrapper .edn-mulitple-text-content {
+        width: 83%;
+        display: inline-block;
+        margin: 0 auto;
+    }
+    .ednpro-contact-template .contactform-7-popup input,
+    .ednpro-contact-template .contactform-7-popup textarea,
+    .edn-contact-lightbox .edn-contact-form-wrap .contactform-7-popup textarea {
+        width: 100%;
+        padding: 0;
+    }
+    .ednpro-contact-template .contactform-7-popup input.wpcf7-submit {
+        padding: 10px;
+    }
+    .edn_pro_static_leftright_wrapper .edn-text-link {
+        max-width: 100%;
+        width: 100%;
+        text-align: center;
+    }
+    .scroller_leftright_wrapper .ticker-wrapper.right p.ticker-content {
+        width: 100%;
+        padding-left: 5px;
+    }
+    .edn-position-left .edn-twitter-feed-wrap .ticker-wrapper .ticker-content,
+    .edn-position-right .edn-twitter-feed-wrap .ticker-wrapper .ticker-content {
+        width: 45%;
+    }
+    .edn-notify-bar.edn-position-left .scroller_template_wrapper .ticker-wrapper p.ticker-content, 
+    .edn-notify-bar.edn-position-right .scroller_template_wrapper .ticker-wrapper p.ticker-content {
+        width: 50%;
+    }
+    .edn-notify-bar .right .ticker-content {
+        text-align: right;
+    }
+    .edn-notify-bar .bx-wrapper .bx-next {
+        right: 36px;
+    }
+    .edn-position-top .endpro_main_leftright_wrapper .edn-subscribe-form .edn-error,
+    .edn-position-top_absolute .endpro_main_leftright_wrapper .edn-subscribe-form .edn-error,
+    .edn-position-top .endpro_main_leftright_wrapper .edn-subscribe-form .edn-success,
+    .edn-position-top_absolute .endpro_main_leftright_wrapper .edn-subscribe-form .edn-success,
+    .edn-position-bottom .endpro_main_leftright_wrapper .edn-subscribe-form .edn-error,
+    .edn-position-bottom .endpro_main_leftright_wrapper .edn-subscribe-form .edn-success {
+        bottom: -14px;
+    }
+    .edn-constant-contact-wrap,
+    .edn-subscribe-form .edn-form-field {
+        padding: 3px 15px;
+    }
+    .edn-position-right .edn-subscribe-form .edn-form-field .edn_subs_email_r,
+    .edn-position-left .edn-subscribe-form .edn-form-field .edn_subs_email_r,
+    .edn-position-right .edn-template-15 .edn-subscribe-form .edn-form-field .edn_subs_email_r, 
+    .edn-position-left .edn-template-15 .edn-subscribe-form .edn-form-field .edn_subs_email_r {
+        max-width: 100%;
+        width: 100%;
+    }
+    .edn-subscribe-form .edn-front-title h3,
+    .edn-mailchimp-wrap .edn-front-title h3 {
+        max-width: 100%;
+        margin: 0;
+        width: 100%;
+        line-height: 1;
+    }
+    .edn-notify-bar .loader_view {
+        top: auto;
+        bottom: 0;
+        display: inline-block;
+    }
+    .loader_view {
+        right: 0;
+    }
+    .edn-notify-bar .slider_leftright_wrapper .bx-wrapper .edn-mulitple-text-content {
+        max-width: 100%;
+        width: auto;
+    }
+    .edn-position-left.edn-notify-bar .edn-container,
+    .edn-position-right.edn-notify-bar .edn-container {
+        width: 300px;
+    }
+    .edn-position-left .ednpro-open-panel,
+    .edn-position-right .ednpro-open-panel {
+        width: 280px;
+    }
+    .edn-position-left.ednpro-open-panel .ednpro-top-panel-open {
+        left: 280px;
+    }
+    .edn-position-right.ednpro-open-panel .ednpro-top-panel-open {
+        right: 280px;
+    }
+    /*counter-responsive*/
+    .edn_countdown_timer_main_wrapper .countdown-wrap.apexnb_layout1 .ApexDateCountdown span {
+        font-size: 20px !important;
+    }
+    .edn_countdown_timer_main_wrapper .countdown-wrap.apexnb_layout1 .ApexDateCountdown h4 {
+        font-size: 8px !important;
+    }
+    .edn_countdown_timer_main_wrapper .countdown-wrap .counter_desc, 
+    .edn_countdown_timer_main_wrapper .countdown-wrap .ApexDateCountdown, 
+    .edn_countdown_timer_main_wrapper .countdown-wrap .apex_countdown {
+        margin-right:0;
+    }
+    .edn_countdown_timer_main_wrapper .countdown-wrap .counter_desc {
+        max-width: 100%;
+        width:100%;
+    }
+    .edn_countdown_timer_main_wrapper .countdown-wrap .counter_desc {
+        margin-bottom: 10px;
+    }
+    .edn_countdown_timer_main_wrapper .countdown-wrap {
+        display: inline-block;
+        width:100%;
+    }
+    /*.edn_countdown_timer_main_wrapper .countdown-wrap .apex_countdown {
+        display: block;
+        width:70%;
+        margin: 0 auto;
+    }*/
+    .edn-position-left .edn_countdown_timer_main_wrapper .countdown-wrap .apex_countdown, 
+    .edn-position-right .edn_countdown_timer_main_wrapper .countdown-wrap .apex_countdown {
+        width: 100%;
+    }
+    .edn_countdown_timer_main_wrapper .countdown-wrap.apexnb_layout1 {
+        display: flex;
+    }
+    .edn-position-left .countdown-wrap.apexnb_layout2 .apex_countdown div span,
+    .edn-position-left .countdown-wrap.apexnb_layout3 .apex_countdown div span,
+    .edn-position-right .countdown-wrap.apexnb_layout2 .apex_countdown div span,
+    .edn-position-right .countdown-wrap.apexnb_layout3 .apex_countdown div span,
+    .edn-position-left .countdown-wrap.apexnb_layout4 .apex_countdown div span,
+    .edn-position-right .countdown-wrap.apexnb_layout4 .apex_countdown div span,
+    .edn-position-left.apexnb-logo-social-right-section .countdown-wrap.apexnb_layout4 .apex_countdown div span, 
+    .edn-position-left.apexnb-logo-social-right-section .countdown-wrap.apexnb_layout5 .apex_countdown div span, 
+    .edn-position-left.apexnb-logo-social-right-section .edn_countdown_timer_main_wrapper .countdown-wrap.apexnb_layout6 .apex_countdown,
+    .edn-position-right.apexnb-logo-social-right-section .countdown-wrap.apexnb_layout4 .apex_countdown div span, 
+    .edn-position-right.apexnb-logo-social-right-section .countdown-wrap.apexnb_layout5 .apex_countdown div span, 
+    .edn-position-right.apexnb-logo-social-right-section .edn_countdown_timer_main_wrapper .countdown-wrap.apexnb_layout6 .apex_countdown{
+        font-size: 26px;
+    }
+    .edn-position-left .countdown-wrap.apexnb_layout2 .apex_countdown div p,
+    .edn-position-left .countdown-wrap.apexnb_layout3 .apex_countdown div p,
+    .edn-position-right .countdown-wrap.apexnb_layout2 .apex_countdown div p,
+    .edn-position-right .countdown-wrap.apexnb_layout3 .apex_countdown div p,
+    .edn-position-left .countdown-wrap.apexnb_layout4 .apex_countdown div p,
+    .edn-position-right .countdown-wrap.apexnb_layout4 .apex_countdown div p {
+        font-size: 10px;
+    }
+    /*.edn-position-left .edn_countdown_timer_main_wrapper .countdown-wrap.apexnb_layout2 .apex_countdown div,
+    .edn-position-right .edn_countdown_timer_main_wrapper .countdown-wrap.apexnb_layout2 .apex_countdown div {
+        padding: 8px;
+    }*/
+    .edn-position-right .edn_countdown_timer_main_wrapper .countdown-wrap.apexnb_layout3 .apex_countdown div {
+        padding: 8px 12px;
+    }
+    .edn-position-left .edn_countdown_timer_main_wrapper .countdown-wrap.apexnb_layout3 .apex_countdown div {
+        padding: 8px 9px;
+    }
+    .edn-position-left .edn_countdown_timer_main_wrapper .countdown-wrap.apexnb_layout4 .counter_desc,
+    .edn-position-right .edn_countdown_timer_main_wrapper .countdown-wrap.apexnb_layout4 .counter_desc,
+    .edn-position-left .edn_countdown_timer_main_wrapper .countdown-wrap.apexnb_layout5 .counter_desc, 
+    .edn-position-left .edn_countdown_timer_main_wrapper .countdown-wrap.apexnb_layout6 .counter_desc,
+    .edn-position-right .edn_countdown_timer_main_wrapper .countdown-wrap.apexnb_layout5 .counter_desc, 
+    .edn-position-right .edn_countdown_timer_main_wrapper .countdown-wrap.apexnb_layout6 .counter_desc {
+        font-size: 16px;
+    }
+    .edn_countdown_timer_main_wrapper .countdown-wrap.apexnb_layout4 .apex_countdown div {
+        padding:0 9px;
+    }
+    .edn-position-left .edn_countdown_timer_main_wrapper .countdown-wrap.apexnb_layout4 .apex_countdown div,
+    .edn-position-right .edn_countdown_timer_main_wrapper .countdown-wrap.apexnb_layout4 .apex_countdown div,
+    .edn-position-left.apexnb-logo-social-right-section .edn_countdown_timer_main_wrapper .countdown-wrap.apexnb_layout4 .apex_countdown div, 
+    .edn-position-right.apexnb-logo-social-right-section .edn_countdown_timer_main_wrapper .countdown-wrap.apexnb_layout4 .apex_countdown div {
+        padding:0 13px;
+    }
+    .apexnb-logo-social-right-section .countdown-wrap.apexnb_layout5 .apex_countdown div span, 
+    .apexnb-logo-social-right-section .countdown-wrap.apexnb_layout5 .apex_countdown div span {
+        padding:6px;
+    }
+    .edn-position-left .countdown-wrap.apexnb_layout5 .apex_countdown div span,
+    .edn-position-right .countdown-wrap.apexnb_layout5 .apex_countdown div span {
+        font-size: 20px;
+    }
+    .edn-position-left .countdown-wrap.apexnb_layout5 .apex_countdown div p,
+    .edn-position-right .countdown-wrap.apexnb_layout5 .apex_countdown div p,
+    .edn-position-left .edn_countdown_timer_main_wrapper .countdown-wrap.apexnb_layout6 .smalltext,
+    .edn-position-right .edn_countdown_timer_main_wrapper .countdown-wrap.apexnb_layout6 .smalltext,
+    .edn-position-left.apexnb-logo-social-right-section .countdown-wrap.apexnb_layout5 .apex_countdown div p, 
+    .edn-position-left.apexnb-logo-social-right-section .edn_countdown_timer_main_wrapper .countdown-wrap.apexnb_layout6 .smalltext, 
+    .edn-position-right.apexnb-logo-social-right-section .countdown-wrap.apexnb_layout5 .apex_countdown div p, 
+    .edn-position-right.apexnb-logo-social-right-section .edn_countdown_timer_main_wrapper .countdown-wrap.apexnb_layout6 .smalltext {
+        font-size: 12px;
+    }
+    .edn-position-right .edn_countdown_timer_main_wrapper .countdown-wrap.apexnb_layout6 .apex_countdown > div {
+        margin-right:5px;
+        padding:8px;
+        float: none;
+    }
+    .edn-position-left.apexnb-logo-social-right-section .edn_countdown_timer_main_wrapper .countdown-wrap.apexnb_layout6 .apex_countdown > div, 
+    .edn-position-right.apexnb-logo-social-right-section .edn_countdown_timer_main_wrapper .countdown-wrap.apexnb_layout6 .apex_countdown > div, 
+    .edn-position-left.apexnb-logo-social-right-section .edn_countdown_timer_main_wrapper .countdown-wrap.apexnb_layout6 .apex_countdown div > span, 
+    .edn-position-right.apexnb-logo-social-right-section .edn_countdown_timer_main_wrapper .countdown-wrap.apexnb_layout6 .apex_countdown div > span {
+        padding:6px;
+    }
+    .edn-position-left .edn_countdown_timer_main_wrapper .countdown-wrap.apexnb_layout6 .apex_countdown,
+    .edn-position-right .edn_countdown_timer_main_wrapper .countdown-wrap.apexnb_layout6 .apex_countdown,
+    .edn-position-left.apexnb-logo-social-right-section .edn_countdown_timer_main_wrapper .countdown-wrap.apexnb_layout6 .apex_countdown, 
+    .edn-position-right.apexnb-logo-social-right-section .countdown-wrap.apexnb_layout4 .apex_countdown div span, 
+    .edn-position-right.apexnb-logo-social-right-section .countdown-wrap.apexnb_layout5 .apex_countdown div span, 
+    .edn-position-right.apexnb-logo-social-right-section .edn_countdown_timer_main_wrapper .countdown-wrap.apexnb_layout6 .apex_countdown {
+        font-size: 21px;
+    }
+    .edn_countdown_timer_main_wrapper .countdown-wrap .btn_calltoaction {
+        display: block;
+        max-width: 50%;
+        margin:0 auto;
+    }
+    /*searchform-responsive*/
+    .apexnb-searchwrapper .apex-search-right-section {
+        float: none;
+        width: auto;
+    }
+    .apexnb-searchwrapper .apex-onscreen-description {
+        float: none;
+        margin-right:0;
+    }
+    .apexnb-search-layout1.apexnb-searchwrapper .apex-search-right-section {
+        width: auto;
+    }
+    .apexnb-searchwrapper .searchform {
+        display: block;
+    }
+    .edn-position-left .apexnb-search-layout1 .apex-search-right-section .btn-search-now,
+    .edn-position-left .apexnb-search-layout1 .apex-search-right-section .btn-search-now {
+        top:auto;
+        bottom:5px;
+    }
+    .apexnb-search-layout1 .apex-search-right-section label i,
+    .apexnb-search-layout5.apexnb-searchwrapper .apex-onscreen-description {
+        margin-right: 0;
+    }
+    .apexnb-search-layout4.apexnb-searchwrapper .apex-onscreen-description {
+        margin-right:0;
+        margin-bottom: 5px;
+    }
+    .edn-position-left .apexnb-search-layout4.apexnb-searchwrapper .apex-search-right-section,
+    .edn-position-right .apexnb-search-layout4.apexnb-searchwrapper .apex-search-right-section {
+        min-width: auto;
+        width: 100%;
+    }
+    .edn-position-left .apexnb-searchwrapper .apex-onscreen-description, 
+    .edn-position-right .apexnb-searchwrapper .apex-onscreen-description {
+        margin-top:0;
+    }
+    .apexnb-search-layout4.apexnb-searchwrapper .apex-search-right-section,
+    .apexnb-search-layout5.apexnb-searchwrapper .apex-search-right-section {
+        width: 100%;
+        max-width: 100%;
+    }
+    .edn-position-left .apexnb-search-layout5 .apex-search-right-section.apexnb_show_icononly label,
+    .edn-position-right .apexnb-search-layout5 .apex-search-right-section.apexnb_show_icononly label {
+        width: 80%;
+    }
+    .edn-position-left .endpro_main_leftright_wrapper.scroller_leftright_wrapper,
+    .edn-position-right .endpro_main_leftright_wrapper.scroller_leftright_wrapper {
+        padding:15px 0;
+    }
+    .edn-position-left .edn-form-field .constant_subscribe, 
+    .edn-position-right .edn-form-field .constant_subscribe {
+        margin-top: 0;
+    }
+    .edn-position-left .edn-template-15 .edn-form-field input.edn-mailchimp-email, 
+    .edn-position-right .edn-template-15  .edn-form-field input.edn-mailchimp-email,
+    .edn-position-left .edn-template-15 .edn-form-field .edn_mailchimp_submit_ajax, 
+    .edn-position-right .edn-template-15 .edn-form-field .edn_mailchimp_submit_ajax,
+    .endpro_main_leftright_wrapper .ednpro_right_section {
+        width:100%;
+    }
+    .edn-position-left .apexnb-searchwrapper.apexnb-search-layout2 .apex-search-right-section,
+    .edn-position-right .apexnb-searchwrapper.apexnb-search-layout2 .apex-search-right-section {
+        min-width: auto;
+    }
+    .edn-position-left .apexnb-search-layout2 .apex-search-right-section.apexnb_show_both_sbtn label,
+    .edn-position-right .apexnb-search-layout2 .apex-search-right-section.apexnb_show_both_sbtn label,
+    .edn-position-left .apexnb-search-layout2 .apex-search-right-section .btn-search-now,
+    .edn-position-right .apexnb-search-layout2 .apex-search-right-section .btn-search-now,
+    .edn-position-left .apexnb-search-layout3 .apex-search-right-section.apexnb_show_both_sbtn label,
+    .edn-position-right .apexnb-search-layout3 .apex-search-right-section.apexnb_show_both_sbtn label,
+    .edn-position-left .apexnb-search-layout3 .apex-search-right-section .btn-search-now,
+    .edn-position-right .apexnb-search-layout3 .apex-search-right-section .btn-search-now {
+        float:none;
+        width:100%;
+    }
+    .edn-position-left .apexnb-search-layout2 .apex-search-right-section .search-field, 
+    .edn-position-right .apexnb-search-layout2 .apex-search-right-section .search-field {
+        border:3px;
+    }
+    .edn-position-left .apexnb-search-layout3.apexnb-searchwrapper .apex-search-right-section, 
+    .edn-position-right .apexnb-search-layout3.apexnb-searchwrapper .apex-search-right-section {
+        width:auto;
+    }
+    .apexnb-logo-social-right-section .endpro_main_leftright_wrapper, 
+    .apexnb-logo-social-right-section .endpro_main_leftright_wrapper.slider_leftright_wrapper {
+        padding:6px 0;
+    }
+    .edn_countdown_timer_main_wrapper .countdown-wrap.apexnb_layout5 .apex_countdown div {
+        margin-right: 10px;
+    }
+    .edn_countdown_timer_main_wrapper .countdown-wrap.apexnb_layout5 .apex_countdown div:last-child {
+        margin-right: 0;
+    }
+    .edn-position-left.apexnb-logo-social-right-section .edn-temp-design-wrapper, 
+    .edn-position-right.apexnb-logo-social-right-section .edn-temp-design-wrapper {
+        padding: 15px 20px;
+    }
+    .apexnb-search-layout3 .apex-search-right-section .btn-search-now{
+        margin-top: 10px;
+    }
+    .apexnb-searchwrapper .apex-search-right-section .btn-search-now {
+        padding:5px 10px;
+    }
+    .apexnb-logo-social-right-section .apexnb-search-layout5 .apex-search-right-section.apexnb_show_both_sbtn label {
+        width: 70%;
+    }
+    .apexnb-search-layout5.apexnb-searchwrapper .apex-onscreen-description {
+        float: none;
+        margin-right: 0;
+        width: 100%;
+    }
+    .apexnb-search-layout5.apexnb-searchwrapper .apex-search-right-section {
+        float: none;
+    }
+    .edn-contact-lightbox .edn-contact-lightbox-inner-wrap.apexnb-ccform7-wrapper {
+        width: 300px;
+    }
+}
+@media (max-width: 420px) {
+    .countdown-wrap.apexnb_layout3 .apex_countdown div p {
+        font-size: 8px;
+    }
+}
+@media (max-width: 400px) {
+    .right .ticker .edn-mulitple-text-content {
+        margin-right: 0px;
+    }
+
+    /*counter-responsive*/
+    .apexnb-searchwrapper.apexnb-search-layout2 .apex-search-right-section,
+    .apexnb-search-layout4.apexnb-searchwrapper .apex-search-right-section {
+        min-width: auto;
+        width: 100%;
+    }
+    .apexnb-search-layout2 .apex-search-right-section label {
+        float:none;
+    }
+    .apexnb-search-layout2 .apex-search-right-section .btn-search-now {
+        float:none;
+        margin-top: 5px;
+        border-radius: 3px;
+    }
+    .apexnb-search-layout2 .apex-search-right-section .search-field,
+    .edn-template-15 .apexnb-searchwrapper .apex-search-right-section, 
+    .edn-template-15 .apexnb-searchwrapper .apex-search-right-section .btn-search-now {
+        border-radius: 3px;
+    }
+    .apexnb-search-layout3 .apex-search-right-section label {
+        float:none;
+        width: 100%;
+    }
+    .apexnb-search-layout3.apexnb-searchwrapper .apex-search-right-section {
+        width: auto;
+    }
+    .apexnb-searchwrapper .apex-search-right-section .btn-search-now {
+        float: none;
+    }
+    .apexnb-searchwrapper.apexnb-search-layout4 .apex-search-right-section .btn-search-now,
+    .apexnb-searchwrapper.apexnb-search-layout5 .apex-search-right-section .btn-search-now {
+        margin-top:0;
+    }
+    .apexnb-search-layout5 .apex-search-right-section.apexnb_show_icononly label {
+        width: 83.2%;
+    }
+    .edn_countdown_timer_main_wrapper .countdown-wrap.apexnb_layout1 .btn_calltoaction {
+        padding:8px 15px;
+    }
+    .apexnb-logo-social-right-section .edn-temp1-design-wrapper, 
+    .apexnb-logo-social-right-section .edn-temp2-design-wrapper, 
+    .apexnb-logo-social-right-section .edn-temp3-design-wrapper, 
+    .apexnb-logo-social-right-section .edn-temp4-design-wrapper, 
+    .apexnb-logo-social-right-section .edn-temp5-design-wrapper, 
+    .apexnb-logo-social-right-section .edn-temp6-design-wrapper, 
+    .apexnb-logo-social-right-section .edn-temp7-design-wrapper, 
+    .apexnb-logo-social-right-section .edn-temp8-design-wrapper, 
+    .apexnb-logo-social-right-section .edn-temp9-design-wrapper, 
+    .apexnb-logo-social-right-section .edn-temp10-design-wrapper, 
+    .apexnb-logo-social-right-section .edn-temp11-design-wrapper, 
+    .apexnb-logo-social-right-section .edn-temp12-design-wrapper, 
+    .apexnb-logo-social-right-section .edn-temp13-design-wrapper, 
+    .apexnb-logo-social-right-section .edn-temp14-design-wrapper {
+        padding:12px 15px;
+    }
+    .edn-position-left .countdown-wrap.apexnb_layout4 .apex_countdown div span, 
+    .edn-position-right .countdown-wrap.apexnb_layout4 .apex_countdown div span, 
+    .edn-position-left.apexnb-logo-social-right-section .countdown-wrap.apexnb_layout4 .apex_countdown div span,
+    .edn-position-right.apexnb-logo-social-right-section .countdown-wrap.apexnb_layout4 .apex_countdown div span {
+        font-size: 21px;
+    }
+    .edn_countdown_timer_main_wrapper .countdown-wrap.apexnb_layout6 .smalltext {
+        font-size: 12px;
+    }
+    .edn_countdown_timer_main_wrapper .countdown-wrap.apexnb_layout6 .apex_countdown > div {
+        padding: 7px;
+    }
+    .edn_countdown_timer_main_wrapper .countdown-wrap.apexnb_layout6 .smalltext {
+        font-size: 12px;
+    }
+    .edn_countdown_timer_main_wrapper .countdown-wrap.apexnb_layout6 .apex_countdown div > span {
+        padding: 4px;
+    }
+    .edn-form-field {
+        display: block;
+    }
+    .apexnb-search-layout3 .apex-search-right-section .search-field {
+        margin-bottom: 10px;
+    }
+    .time_circles canvas {
+        width: auto !important;
+    }
+}
+/*For Responsive css end*/
+
+.edn-post-title > li,
+.edn-rss-feed > li,
+.edn-twitter-feed > li,
+.edn-multiple-content > li {
+    float: left;
+    visibility: hidden;
+    height: 1px;
+}
+.bx-wrapper .edn-post-title > li,
+.bx-wrapper .edn-rss-feed > li,
+.bx-wrapper .edn-twitter-feed > li,
+.bx-wrapper .edn-multiple-content > li {
+    height: inherit;
+    visibility: visible;
+}
