@@ -1,4 +1,4 @@
 name: pydata-news
 dependencies:
 - jupyter
-- python=3.5
+- python=3.11
