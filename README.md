@@ -26,3 +26,9 @@ a slideshow and serve it with:
 ```
 jupyter nbconvert <name of ipynb file> --to slides --post serve
 ```
+
+Bonus point: add `--no-input` to hide the input cells:
+
+```
+jupyter nbconvert <name of ipynb file> --to slides --no-input --post serve
+```
