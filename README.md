@@ -32,3 +32,18 @@ Bonus point: add `--no-input` to hide the input cells:
 ```
 jupyter nbconvert <name of ipynb file> --to slides --no-input --post serve
 ```
+
+## Shared static assets
+
+Common CSS and images now live in `static/` and can be linked into each month's
+folder so we only maintain them once.
+
+- Add your notebook in a new month folder as usual, and put any month-specific
+  images under `<month>/images/`.
+- Run `python utils/link_static.py` from the repo root. It hashes and replaces
+  matching `custom.css` files and any `*.png` images that exist in `static/images/`
+  with symlinks. Files with different contents are left untouched.
+- Edit shared CSS in `static/css/` or drop/update shared images in
+  `static/images/` to update every linked month at once.
+- On Windows you may need to enable Developer Mode or run a shell with elevated
+  privileges to allow symlink creation.
